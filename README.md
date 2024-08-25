@@ -19,8 +19,6 @@ Have docker installed.
 
 Download the app
 
-Opening a terminal and then the docker file we can execute the command docker build -t divisas .
-
 To run the application docker run : docker-compose up --build
 
 You can see the service in port 8082
